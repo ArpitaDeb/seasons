@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application is going to detect what season the user is currently experiencing outside like in the real world. If the user is located in the northern hemisphere that detect users physical location when they visit the application.
+So if they're in the northern hemisphere and it's between October and March then it's probably going to be winter.
+So I want to print on the screen something like it's chilly and shows some snowflake icons.
+If the user is in the southern hemisphere, visiting the application from any location on
+the earth in the southern hemisphere and the month is between March and October. That means it's winter for them.
+So the case in which it is a user is in the northern hemisphere and it's between March and October. I want to print up something that seems to indicate that it is currently summertime and maybe it's time to hit the beach or something like that.
+So essentially, just detecting what season it is based on the user's location and their current time or what month it is. Now we're going to print some different content on the screen based upon that.
 
 ## Available Scripts
 
