@@ -8,7 +8,9 @@ If the user is in the southern hemisphere, visiting the application from any loc
 the earth in the southern hemisphere and the month is between March and October. That means it's winter for them.
 So the case in which it is a user is in the northern hemisphere and it's between March and October. I want to print up something that seems to indicate that it is currently summertime and maybe it's time to hit the beach or something like that.
 So essentially, just detecting what season it is based on the user's location and their current time or what month it is. Now we're going to print some different content on the screen based upon that.
-
+!["SummerAtSaoPaolo"](https://github.com/ArpitaDeb/seasons/blob/main/docs/Summer.png?raw=true)
+!["WinterAtBerlin"](https://github.com/ArpitaDeb/seasons/blob/main/docs/winterSensor.png?raw=true)
+!["Winter"](https://github.com/ArpitaDeb/seasons/blob/main/docs/winter.png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
